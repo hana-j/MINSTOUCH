@@ -7,8 +7,7 @@
 
 A. 프로그래밍 언어
 * JAVA 1.8.0
-* JSP
-* JavaScript(ES6)
+* JavaScript
 
 B. 개발툴/DB
 * Eclipse
